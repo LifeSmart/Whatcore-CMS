@@ -1,0 +1,6 @@
+# Whatcore Content Management System! 
+# Bloque de Carpetas para la Busqueda de Google
+
+User-agent: *
+Disallow: /Whatcore/
+Disallow: /Actions/
